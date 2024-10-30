@@ -6,7 +6,7 @@
 2. All Releases
 3. Looking for a specific release?
 4. Files
-5. Windows x86 executable installer
+5. [Windows x86 executable installer](https://www.python.org/downloads/release/python-390/) 
 6. cmd
 7. mkdir sample
 8. cd sample
