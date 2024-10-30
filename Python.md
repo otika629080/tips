@@ -7,3 +7,9 @@
 3. Looking for a specific release?
 4. Files
 5. Windows x86 executable installer
+6. cmd
+7. mkdir sample
+8. cd sample
+9. py -3.x -m venv venv
+10. .\venv\Scripts\activate
+11. python -V
