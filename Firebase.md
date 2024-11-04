@@ -2,7 +2,7 @@
 
 ## Firestore Database
 
-### Firestore Database Erroe
+### Firestore Database Error
 
 #### FirebaseError: [code=permission-denied]: Missing or insufficient permissions. (書き込みができない場合)
 管理コンソール > Firestore Database > ルールの順に開き、以下を確認する。
