@@ -8,9 +8,9 @@
 ```ts
 const handleGoogleLogin = async () => {
 	try {
-    // Firestoreへの書き込み処理など
+    		// Firestoreへの書き込み処理など
 	} catch (error) {
-    alert(error)
+    		alert(error)
 	}
 ```
 
